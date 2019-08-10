@@ -1,8 +1,8 @@
-import Hello from './hello'
-import React from 'react'
-import ReactDOM from 'react-dom'
+import MyForm from './MyForm';
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 ReactDOM.render(
-    <Hello/>,
-    document.body
-)
+  <MyForm/>,
+  document.body,
+);
